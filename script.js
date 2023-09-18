@@ -60,11 +60,11 @@ drone.on('error', error => {
 
 function getRandomName() {
   // get rekt ugps
-  return(prompt("enter prefered username"));
+  return 'Femboy';
 }
 
 function getRandomColor() {
-  return '#' + Math.floor(Math.random() * 0xFFFFFF).toString(16);
+  return '#0xFF55FF';
 }
 
 //------------- DOM STUFF
