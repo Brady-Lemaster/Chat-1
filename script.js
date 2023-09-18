@@ -59,6 +59,7 @@ drone.on('error', error => {
 });
 
 function getRandomName() {
+  // get rekt ugps
   return(prompt("enter prefered username"));
 }
 
